@@ -90,7 +90,7 @@ To run locally
 
 To boostrap into the running image run the following command 
 ```
-docker run -it --entrypoint /bin/sh -p 8080:8080 template-go-gin:1.0.1
+docker run -it --entrypoint /bin/sh -p 8080:8080 radio:1.0.0
 ```
 
 ### Deploying to Red Hat OpenShift 

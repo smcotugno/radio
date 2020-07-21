@@ -1,6 +1,6 @@
 {
   "properties": [
-    { "name": "openhorizon.example", "value": "helloworld" }
+    { "name": "purpose", "value": "radio" }
   ],
   "constraints": [
   ]
